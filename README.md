@@ -1,2 +1,2 @@
 # PracticeProject
-rensyuyou desu.
+練習用です。
